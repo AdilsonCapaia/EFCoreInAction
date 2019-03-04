@@ -1,0 +1,8 @@
+C:\Users\adils\source\repos\EFCoreInAction\EFCoreInAction\bin\Debug\netcoreapp2.0\EFCoreInAction.deps.json
+C:\Users\adils\source\repos\EFCoreInAction\EFCoreInAction\bin\Debug\netcoreapp2.0\EFCoreInAction.runtimeconfig.json
+C:\Users\adils\source\repos\EFCoreInAction\EFCoreInAction\bin\Debug\netcoreapp2.0\EFCoreInAction.runtimeconfig.dev.json
+C:\Users\adils\source\repos\EFCoreInAction\EFCoreInAction\bin\Debug\netcoreapp2.0\EFCoreInAction.dll
+C:\Users\adils\source\repos\EFCoreInAction\EFCoreInAction\obj\Debug\netcoreapp2.0\EFCoreInAction.csprojAssemblyReference.cache
+C:\Users\adils\source\repos\EFCoreInAction\EFCoreInAction\obj\Debug\netcoreapp2.0\EFCoreInAction.csproj.CoreCompileInputs.cache
+C:\Users\adils\source\repos\EFCoreInAction\EFCoreInAction\obj\Debug\netcoreapp2.0\EFCoreInAction.AssemblyInfoInputs.cache
+C:\Users\adils\source\repos\EFCoreInAction\EFCoreInAction\obj\Debug\netcoreapp2.0\EFCoreInAction.AssemblyInfo.cs

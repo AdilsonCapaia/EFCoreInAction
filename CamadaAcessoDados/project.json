@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+
+    "Microsoft.NetCore.App": {
+      "version": "2.2.0",
+      "type": "default"
+    },
+    "Microsoft.EntityFrameworkCore": "2.2.0",
+
+    "tools": {
+      "Microsoft.EntityFrameworkCore.Tools": "3.0.0-preview.19074.3"
+    }
+
+  }
+  
+ 
+}
